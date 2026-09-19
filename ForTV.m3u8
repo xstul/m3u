@@ -1,0 +1,174 @@
+#EXTM3U
+#EXTINF:-1 group-title="Федеральные",Первый канал
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_1TV.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 1
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_ROSSIA1.m3u8
+#EXTINF:-1 group-title="Федеральные",Матч!
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_MATCHTV.m3u8
+#EXTINF:-1 group-title="Федеральные",НТВ
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_NTV.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятый канал
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_5TV.m3u8
+#EXTINF:-1 group-title="Федеральные",Культура
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_ROSSIAK.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 24
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_ROSSIA24.m3u8
+#EXTINF:-1 group-title="Федеральные",Карусель
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="Федеральные",ОТР
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_OTR.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВЦ
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_TVC.m3u8
+#EXTINF:-1 group-title="Федеральные",РЕН ТВ
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_RENTV.m3u8
+#EXTINF:-1 group-title="Федеральные",СТС
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_STS.m3u8
+#EXTINF:-1 group-title="Федеральные",Домашний
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВ3
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_TV3.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятница!
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="Федеральные",Звезда
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="Федеральные",ТНТ
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_TNT.m3u8
+#EXTINF:-1 group-title="Федеральные",Муз ТВ
+http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/116/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Че!
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_CHE.m3u8
+#EXTINF:-1 group-title="Федеральные",Ю
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_U.m3u8
+
+#EXTINF:-1 group-title="Региональные",Брянская губерния HD
+https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
+#EXTINF:-1 group-title="Региональные",Брянск 24 HD
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_BRYANSK24HD.m3u8
+
+#EXTINF:-1 group-title="Информационные",РБК
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/2404/index.m3u8
+#EXTINF:-1 group-title="Информационные",Москва 24
+http://s19.24h.tv/mbrjwt/7e9d05b4958801834391eddef869512d5866d43f-8953-0-24h1636456227-1-2966711455-1789286094-e128-n5YPFDR2tbKHKOLlqAyihN5-8NDuBSoD1GImttYtixM/index.m3u8
+#EXTINF:-1 group-title="Информационные",Дождь
+http://d78722d4.melpakomn.ru/iptv/RQX8XX6GZYAQUVGM93S9UGPR/2030/index.m3u8
+#EXTINF:-1 group-title="Информационные",Мир 24
+http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/712/index.m3u8
+#EXTINF:-1 group-title="Информационные",BBC World News
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/545/index.m3u8
+#EXTINF:-1 group-title="Информационные",BBC One
+http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/19176/index.m3u8
+#EXTINF:-1 group-title="Информационные",Fox News
+http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/31915/index.m3u8
+#EXTINF:-1 group-title="Информационные",TVP Info
+http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/961/index.m3u8
+#EXTINF:-1 group-title="Информационные",RT Doc
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/839/index.m3u8
+#EXTINF:-1 group-title="Информационные",Первый информационный Беларусь
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/31912/index.m3u8
+#EXTINF:-1 group-title="Информационные",LRT Televizija
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/6360/index.m3u8
+#EXTINF:-1 group-title="Информационные",LRT Plius
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/6362/index.m3u8
+
+#EXTINF:-1 group-title="Спорт",Матч! HD
+http://m9-vss23.plbl.m9.lfstrm.tv/match_tv_hd/normal/index.m3u8?account=5793278f18f7f018&client=e3b0c44298fc1c14&dvrlimit=live&env=s&expires=1789380000&ip=176-212-108-159&liveorigin=m9-live10&mpltlh=auto&origin=m9-dvr10&pbs_id=f5c31d32-cf87-4ee1-a895-f548e1b7c056&provider_id=559165bb685e041d2d000005&token=iLBTrTWg3SHj7AqN73FGsQ&wlid=7sky
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/222/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/211/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/206/index.m3u8
+#EXTINF:-1 group-title="Спорт",Окко Футбол
+http://d78722d4.melpakomn.ru/iptv/RQX8XX6GZYAQUVGM93S9UGPR/6554/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Премьер
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/220/index.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ ТВ
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/215/index.m3u8
+#EXTINF:-1 group-title="Спорт",Беларусь 5
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/2177/index.m3u8
+
+#EXTINF:-1 group-title="Развлекательные",RTVi
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/9102/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Перец International
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/15227/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/6370/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",BBC Two HD
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/19177/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",TV3 Plus (Латвия)
+http://d78722d4.melpakomn.ru/iptv/ELHXKPU7X7H7EPZ2KWDKTYBR/12001/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Discovery Channel
+http://d78722d4.melpakomn.ru/iptv/ELHXKPU7X7H7EPZ2KWDKTYBR/227/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Продвижение
+http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/851/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС International
+http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/15228/index.m3u8
+
+#EXTINF:-1 group-title="Федеральные HD",Первый канал HD
+http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/204/index.m3u8
+#EXTINF:-1 group-title="Федеральные HD",Россия 1 HD
+http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/2409/index.m3u8
+#EXTINF:-1 group-title="Федеральные HD",НТВ HD
+http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/213/index.m3u8
+#EXTINF:-1 group-title="Федеральные HD",РЕН ТВ HD
+http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/2024/index.m3u8
+#EXTINF:-1 group-title="Федеральные HD",ТНТ HD
+http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/237/index.m3u8
+
+#EXTINF:-1 group-title="Международные версии",Первый канал Евразия
+http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/2212/index.m3u8
+#EXTINF:-1 group-title="Международные версии",Первый канал Европа
+http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/12023/index.m3u8
+#EXTINF:-1 group-title="Международные версии",РТР-Планета
+https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
+#EXTINF:-1 group-title="Международные версии",НТВ Мир
+http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/14035/index.m3u8
+#EXTINF:-1 group-title="Международные версии",ТНТ International (Беларусь)
+http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/15230/index.m3u8
+#EXTINF:-1 group-title="Международные версии",Qazaqstan International
+https://stream1.cinerama.uz/1431/index.m3u8
+
+#EXTINF:-1 group-title="Беларусь",ОНТ
+http://d78722d4.melpakomn.ru/iptv/ELHXKPU7X7H7EPZ2KWDKTYBR/2182/index.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 1
+http://d78722d4.melpakomn.ru/iptv/ELHXKPU7X7H7EPZ2KWDKTYBR/2178/index.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 2
+http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/2179/index.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 3
+http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/2180/index.m3u8
+#EXTINF:-1 group-title="Беларусь",НТВ Беларусь
+http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/19371/index.m3u8
+
+#EXTINF:-1 group-title="Казахстан",Qazaqstan
+http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/2210/index.m3u8
+#EXTINF:-1 group-title="Казахстан",КТК
+http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/2211/index.m3u8
+
+#EXTINF:-1 group-title="Радио",Радио России
+http://icecast.nstation.ru:8000/radiorusbryansk
+#EXTINF:-1 group-title="Радио",32 Радио
+http://online.guberniya.tv:8000/32radio
+#EXTINF:-1 group-title="Радио",Маяк
+http://fmstream.ru:11000/mayak-bryansk
+#EXTINF:-1 group-title="Радио",Наше Радио
+http://nashe1.hostingradio.ru/nashe-128.mp3

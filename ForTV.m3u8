@@ -69,18 +69,8 @@ http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_BRYANSK24HD.m3u8
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/2404/index.m3u8
 #EXTINF:-1 group-title="Информационные",Москва 24
 http://s19.24h.tv/mbrjwt/7e9d05b4958801834391eddef869512d5866d43f-8953-0-24h1636456227-1-2966711455-1789286094-e128-n5YPFDR2tbKHKOLlqAyihN5-8NDuBSoD1GImttYtixM/index.m3u8
-#EXTINF:-1 group-title="Информационные",Дождь
-http://d78722d4.melpakomn.ru/iptv/RQX8XX6GZYAQUVGM93S9UGPR/2030/index.m3u8
 #EXTINF:-1 group-title="Информационные",Мир 24
 http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/712/index.m3u8
-#EXTINF:-1 group-title="Информационные",BBC World News
-http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/545/index.m3u8
-#EXTINF:-1 group-title="Информационные",BBC One
-http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/19176/index.m3u8
-#EXTINF:-1 group-title="Информационные",Fox News
-http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/31915/index.m3u8
-#EXTINF:-1 group-title="Информационные",TVP Info
-http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/961/index.m3u8
 #EXTINF:-1 group-title="Информационные",RT Doc
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/839/index.m3u8
 #EXTINF:-1 group-title="Информационные",Первый информационный Беларусь
@@ -113,10 +103,6 @@ http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/9102/index.m3u8
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/15227/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/6370/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",BBC Two HD
-http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/19177/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",TV3 Plus (Латвия)
-http://d78722d4.melpakomn.ru/iptv/ELHXKPU7X7H7EPZ2KWDKTYBR/12001/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Discovery Channel
 http://d78722d4.melpakomn.ru/iptv/ELHXKPU7X7H7EPZ2KWDKTYBR/227/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Продвижение
@@ -135,34 +121,12 @@ http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/2024/index.m3u8
 #EXTINF:-1 group-title="Федеральные HD",ТНТ HD
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/237/index.m3u8
 
-#EXTINF:-1 group-title="Международные версии",Первый канал Евразия
-http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/2212/index.m3u8
-#EXTINF:-1 group-title="Международные версии",Первый канал Европа
-http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/12023/index.m3u8
-#EXTINF:-1 group-title="Международные версии",РТР-Планета
-https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
-#EXTINF:-1 group-title="Международные версии",НТВ Мир
-http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/14035/index.m3u8
-#EXTINF:-1 group-title="Международные версии",ТНТ International (Беларусь)
-http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/15230/index.m3u8
-#EXTINF:-1 group-title="Международные версии",Qazaqstan International
-https://stream1.cinerama.uz/1431/index.m3u8
-
-#EXTINF:-1 group-title="Беларусь",ОНТ
-http://d78722d4.melpakomn.ru/iptv/ELHXKPU7X7H7EPZ2KWDKTYBR/2182/index.m3u8
-#EXTINF:-1 group-title="Беларусь",Беларусь 1
-http://d78722d4.melpakomn.ru/iptv/ELHXKPU7X7H7EPZ2KWDKTYBR/2178/index.m3u8
-#EXTINF:-1 group-title="Беларусь",Беларусь 2
-http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/2179/index.m3u8
-#EXTINF:-1 group-title="Беларусь",Беларусь 3
-http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/2180/index.m3u8
-#EXTINF:-1 group-title="Беларусь",НТВ Беларусь
-http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/19371/index.m3u8
-
-#EXTINF:-1 group-title="Казахстан",Qazaqstan
-http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/2210/index.m3u8
-#EXTINF:-1 group-title="Казахстан",КТК
-http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/2211/index.m3u8
+#EXTINF:-1 group-title="Федеральные UHD",Первый канал
+http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/19241/index.m3u8
+#EXTINF:-1 group-title="Федеральные UHD",Россия 1
+http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/19242/index.m3u8
+#EXTINF:-1 group-title="Федеральные UHD",Окко Футбол
+http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/19430/index.m3u8
 
 #EXTINF:-1 group-title="Радио",Радио России
 http://icecast.nstation.ru:8000/radiorusbryansk

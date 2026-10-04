@@ -187,11 +187,11 @@ http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/15119/index.m3u8
 #EXTINF:-1 tvg-chno="219" group-title="Федеральные HD",ТНТ HD
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/237/index.m3u8
 
-#EXTINF:-1 tvg-chno="401" tvg-id="pervy" group-title="Федеральные UHD",Первый канал UHD
+#EXTINF:-1 tvg-chno="401" tvg-id="pervy" group-title="Федеральные UHD",Первый канал 4K
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/19241/index.m3u8
-#EXTINF:-1 tvg-chno="402" tvg-id="rossia1" group-title="Федеральные UHD",Россия 1 UHD
+#EXTINF:-1 tvg-chno="402" tvg-id="rossia1" group-title="Федеральные UHD",Россия 1 4K
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/19242/index.m3u8
-#EXTINF:-1 tvg-chno="445" tvg-id="okko-football" group-title="Федеральные UHD",Окко Футбол UHD
+#EXTINF:-1 tvg-chno="445" tvg-id="okko-football" group-title="Федеральные UHD",Окко Футбол 4K
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/19430/index.m3u8
 
 #EXTINF:-1 tvg-chno="1000" tvg-id="radio-rossii" group-title="Радио",Радио России Брянск

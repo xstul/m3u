@@ -53,24 +53,24 @@ http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_TNT.m3u8
 #EXTINF:-1 group-title="Федеральные",Муз ТВ
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/116/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Че!
-#EXTVLCOPT:http-user-agent=IPTV
-http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_CHE.m3u8
-#EXTINF:-1 group-title="Федеральные",Ю
-#EXTVLCOPT:http-user-agent=IPTV
-http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_U.m3u8
+http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/513/index.m3u8
 
 #EXTINF:-1 group-title="Региональные",Брянская губерния HD
 https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
 #EXTINF:-1 group-title="Региональные",Брянск 24 HD
 #EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_BRYANSK24HD.m3u8
+#EXTINF:-1 group-title="Региональные",Мир Белогорья
+http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/20126/index.m3u8
+#EXTINF:-1 group-title="Региональные",Сейм
+http://mhd.iptv2022.com/p/J--JzheUOUZFzwwC8eLAQg,1791185043/streaming/seim/324/1/index.m3u8
 
 #EXTINF:-1 group-title="Информационные",РБК
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/2404/index.m3u8
 #EXTINF:-1 group-title="Информационные",Москва 24
-http://s19.24h.tv/mbrjwt/7e9d05b4958801834391eddef869512d5866d43f-8953-0-24h1636456227-1-2966711455-1789286094-e128-n5YPFDR2tbKHKOLlqAyihN5-8NDuBSoD1GImttYtixM/index.m3u8
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791273050-okY79bIIpghesRa-jiG3Kw/mediacdn/hls/moskva24/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",Мир 24
-http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/712/index.m3u8
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791268467-7DzqaTHwT2IaZr0rK-clZQ/msk-ix/hls/Mir_24_OTT_HD/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",RT Doc
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/839/index.m3u8
 #EXTINF:-1 group-title="Информационные",Первый информационный Беларусь
@@ -96,6 +96,14 @@ http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/220/index.m3u8
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/215/index.m3u8
 #EXTINF:-1 group-title="Спорт",Беларусь 5
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/2177/index.m3u8
+#EXTINF:-1 group-title="Спорт",viju+ Sport
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791269427-OMiMcvB5SXUgQNtMgk-JkQ/msk-ix/hls/Viasat_Sport_HD/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",МЯЧ
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791265129-iHwiRIE1mfIwwndVS-dbug/msk-ix/hls/Footbolniy_HD/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Сила
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791277105-6_WiiQVMgZL_cgKtmglyNA/msk-ix/hls/Sila_HD/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Хоккей ТВ
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791271078-3Kl1lSR2PGDTCEClm0e3cg/msk-ix/hls/Hokeyniy_HD/playlist.m3u8
 
 #EXTINF:-1 group-title="Развлекательные",RTVi
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/9102/index.m3u8
@@ -103,22 +111,82 @@ http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/9102/index.m3u8
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/15227/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/6370/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Discovery Channel
-http://d78722d4.melpakomn.ru/iptv/ELHXKPU7X7H7EPZ2KWDKTYBR/227/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Продвижение
 http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/851/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",НТВ Мир
+https://stream1.cinerama.uz/1434/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС International
 http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/15228/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТВЦ International
+https://stream1.cinerama.uz/1281/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС Love
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791273173-PvPNvAlWM88rz61p3yia1g/msk-ix/hls/CTC_Love_OTT_2/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ностальгия
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791277157-x4m3hAAOu-UUz8XBtvhl_w/msk-ix/hls/Nostalgya/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Время
+http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/9298/index.m3u8
 
-#EXTINF:-1 group-title="Федеральные HD",Первый канал HD
+#EXTINF:-1 group-title="Познавательные",viju History
+http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/203/index.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geograpic
+http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/2336/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Channel
+http://d78722d4.melpakomn.ru/iptv/ELHXKPU7X7H7EPZ2KWDKTYBR/227/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Наука
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791263132-gVj9Cd2KHGxtAnYF0RpjRA/msk-ix/hls/Nauka_HD/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя Планета
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791265595-_DpS78ACQuby7CCWDBxnhQ/msk-ix/hls/MoyaPlaneta_HD/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",История
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791264294-5AC9kwX_V8L_oNcOw-t8JQ/msk-ix/hls/Istorya_SD/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Техно 24
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791277281-YySexpfAD_a-LwX481xNWg/msk-ix/hls/Tehno24/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",RTG HD
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791263583-KgbmgrlE8JQE4XRCFsKjfA/msk-ix/hls/RTG_HD/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Драйв
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791269084-AS3kLbbDaPveP1gbYd_YOQ/msk-ix/hls/Drive_HD/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Авто Плюс
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791275700-9LyBsuTqsTGUafUM90asQQ/msk-ix/hls/Auto_Plus_HD/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Арсенал
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791266794-0BCKanO345RuAOGnSSKwTw/msk-ix/hls/Arsenal_HD/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Инсайт ТВ
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791266850-nc-JCAYYIiTeYPbGTMD28g/msk-ix/hls/Insight_4K_HD/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Центральное Телевидение
+http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/2064/index.m3u8
+
+#EXTINF:-1 group-title="Музыкальные",BRIDGE
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791268572-2BH0TWRjUB7JHauSlq8kpw/msk-ix/hls/BRIDGE_TV_HD/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",BRIDGE Rock
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791265391-xOyYgcPZc5eummxBIwW_rg/msk-ix/hls/BRIDGE_Rock_HD/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",BRIDGE Deluxe
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791270468-N5Yl_NNQt3hbvAm7EfMDTg/msk-ix/hls/BRIDGE_TV_DELUXE_HD/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",BRIDGE Русский Хит
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791272214-l9DKygsM6QSB3v_0omRRfA/msk-ix/hls/BRIDGE_RUHIT_HD/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",BRIDGE Hits
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791274968-8Yq7W7cqecsVSF9ikxqjhw/msk-ix/hls/BRIDGE_Hits_HD/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",BRIDGE Classic
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791272198-F7Ys88RVCfDCRutxcM7CoQ/msk-ix/hls/BRIDGE_CLASSIC_HD_72200/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",BRIDGE Фрэш
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791274044-1aYvALg0b5GHyRKE8o-9OA/msk-ix/hls/BRIDGE_FRESH_HD/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",BRIDGE Этно
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791275879-RGgJfcQWR0A7XBi6O-2JxA/msk-ix/hls/BRIDGE_ETHNO_HD_2/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",РУ ТВ
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791267565-naLC9pxTd8KoUqRJzYzzEQ/msk-ix/hls/RUTV_HD/playlist.m3u8
+
+#EXTINF:-1 group-title="Федеральные HD",Первый канал
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/204/index.m3u8
-#EXTINF:-1 group-title="Федеральные HD",Россия 1 HD
+#EXTINF:-1 group-title="Федеральные HD",Россия 1
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/2409/index.m3u8
-#EXTINF:-1 group-title="Федеральные HD",НТВ HD
+#EXTINF:-1 group-title="Федеральные HD",НТВ
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/213/index.m3u8
-#EXTINF:-1 group-title="Федеральные HD",РЕН ТВ HD
+#EXTINF:-1 group-title="Федеральные HD",ТВЦ
+http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/19222/index.m3u8
+#EXTINF:-1 group-title="Федеральные HD",РЕН ТВ
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/2024/index.m3u8
-#EXTINF:-1 group-title="Федеральные HD",ТНТ HD
+#EXTINF:-1 group-title="Федеральные HD",Пятница!
+http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/5031/index.m3u8
+#EXTINF:-1 group-title="Федеральные HD",МИР
+http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/15119/index.m3u8
+#EXTINF:-1 group-title="Федеральные HD",ТНТ
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/237/index.m3u8
 
 #EXTINF:-1 group-title="Федеральные UHD",Первый канал

@@ -1,218 +1,217 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 tvg-chno="1" tvg-id="pervy" group-title="Федеральные",Первый канал
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="pervy" group-title="Федеральные",Первый канал
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_1TV.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="rossia1" group-title="Федеральные",Россия 1
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="rossia1" group-title="Федеральные",Россия 1
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_ROSSIA1.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="match-tv" group-title="Федеральные",Матч! ТВ
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="match-tv" group-title="Федеральные",Матч! ТВ
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_MATCHTV.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="ntv" group-title="Федеральные",НТВ
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="ntv" group-title="Федеральные",НТВ
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_NTV.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="5kanal-ru" group-title="Федеральные",Пятый канал
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="5kanal-ru" group-title="Федеральные",Пятый канал
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_5TV.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="kultura" group-title="Федеральные",Культура
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="kultura" group-title="Федеральные",Культура
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_ROSSIAK.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="rossia-24" group-title="Федеральные",Россия 24
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="rossia-24" group-title="Федеральные",Россия 24
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_ROSSIA24.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="karusel" group-title="Федеральные",Карусель
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="karusel" group-title="Федеральные",Карусель
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_KARUSEL.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="otr" group-title="Федеральные",ОТР
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="otr" group-title="Федеральные",ОТР
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_OTR.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="tvcentr" group-title="Федеральные",ТВЦ
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="tvcentr" group-title="Федеральные",ТВЦ
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_TVC.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="rentv" group-title="Федеральные",РЕН ТВ
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="rentv" group-title="Федеральные",РЕН ТВ
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_RENTV.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="sts" group-title="Федеральные",СТС
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="rentv" group-title="Федеральные",РЕН ТВ HD
+http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/2024/index.m3u8
+#EXTINF:-1 tvg-id="sts" group-title="Федеральные",СТС
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_STS.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="domashny" group-title="Федеральные",Домашний
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="domashny" group-title="Федеральные",Домашний
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_DOMASHNIY.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="tv3-ru" group-title="Федеральные",ТВ-3
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="tv3-ru" group-title="Федеральные",ТВ-3
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_TV3.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-id="piatnica" group-title="Федеральные",Пятница!
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="piatnica" group-title="Федеральные",Пятница!
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_FRIDAY.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-id="zvezda" group-title="Федеральные",Звезда
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="zvezda" group-title="Федеральные",Звезда
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_ZVEZDA.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-id="mir" group-title="Федеральные",МИР
+#EXTINF:-1 tvg-id="mir" group-title="Федеральные",МИР
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/15119/index.m3u8
-#EXTINF:-1 tvg-chno="19" tvg-id="tnt" group-title="Федеральные",ТНТ
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="tnt" group-title="Федеральные",ТНТ
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_TNT.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-id="muztv" group-title="Федеральные",Муз ТВ
+#EXTINF:-1 tvg-id="muztv" group-title="Федеральные",Муз ТВ
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/116/index.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-id="brianskaya-gubernia" group-title="Региональные",Брянская губерния
+#EXTINF:-1 tvg-id="brianskaya-gubernia" group-title="Региональные",Брянская губерния
 https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-id="briansk24" group-title="Региональные",Брянск 24 HD
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTINF:-1 tvg-id="briansk24" group-title="Региональные",Брянск 24 HD
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_BRYANSK24HD.m3u8
 
-#EXTINF:-1 tvg-chno="30" tvg-id="rbk" group-title="Информационные",РБК
+#EXTINF:-1 tvg-id="rbk" group-title="Информационные",РБК
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/2404/index.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="moskva-24" group-title="Информационные",Москва 24
+#EXTINF:-1 tvg-id="moskva-24" group-title="Информационные",Москва 24
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791273050-okY79bIIpghesRa-jiG3Kw/mediacdn/hls/moskva24/playlist.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-id="mir-24" group-title="Информационные",Мир 24
+#EXTINF:-1 tvg-id="mir-24" group-title="Информационные",Мир 24
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791268467-7DzqaTHwT2IaZr0rK-clZQ/msk-ix/hls/Mir_24_OTT_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-id="pervy-info-by" group-title="Информационные",Первый информационный (Беларусь)
+#EXTINF:-1 tvg-id="pervy-info-by" group-title="Информационные",Первый информационный (Беларусь)
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/31912/index.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="lrt-tv" group-title="Информационные",LRT Televizija
+#EXTINF:-1 tvg-id="lrt-tv" group-title="Информационные",LRT Televizija
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/6360/index.m3u8
-#EXTINF:-1 tvg-chno="35" group-title="Информационные",LRT Plius
+#EXTINF:-1 group-title="Информационные",LRT Plius
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/6362/index.m3u8
 
-#EXTINF:-1 tvg-chno="40" tvg-id="match-tv" group-title="Спорт",Матч! HD
+#EXTINF:-1 tvg-id="match-tv" group-title="Спорт",Матч! HD
 http://d78722d4.melpakomn.ru/iptv/8QSP3NYYD5XL4VXF7AXUP66L/10020/index.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-id="match-premier" group-title="Спорт",Матч! Премьер
+#EXTINF:-1 tvg-id="match-premier" group-title="Спорт",Матч! Премьер
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/220/index.m3u8
-#EXTINF:-1 tvg-chno="42" tvg-id="match-football1" group-title="Спорт",Матч! Футбол 1
+#EXTINF:-1 tvg-id="match-football1" group-title="Спорт",Матч! Футбол 1
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/222/index.m3u8
-#EXTINF:-1 tvg-chno="43" tvg-id="match-football2" group-title="Спорт",Матч! Футбол 2
+#EXTINF:-1 tvg-id="match-football2" group-title="Спорт",Матч! Футбол 2
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/211/index.m3u8
-#EXTINF:-1 tvg-chno="44" tvg-id="match-football3" group-title="Спорт",Матч! Футбол 3
+#EXTINF:-1 tvg-id="match-football3" group-title="Спорт",Матч! Футбол 3
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/206/index.m3u8
-#EXTINF:-1 tvg-chno="45" tvg-id="okko-football" group-title="Спорт",ОККО Футбол
+#EXTINF:-1 tvg-id="okko-football" group-title="Спорт",ОККО Футбол
 http://d78722d4.melpakomn.ru/iptv/RQX8XX6GZYAQUVGM93S9UGPR/6554/index.m3u8
-#EXTINF:-1 tvg-chno="46" tvg-id="kxl" group-title="Спорт",КХЛ
+#EXTINF:-1 tvg-id="kxl" group-title="Спорт",КХЛ
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/215/index.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="belarus5" group-title="Спорт",Беларусь 5
+#EXTINF:-1 tvg-id="belarus5" group-title="Спорт",Беларусь 5
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/2177/index.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-id="viasat-sport" group-title="Спорт",viju+ Sport
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Спорт",viju+ Sport
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791269427-OMiMcvB5SXUgQNtMgk-JkQ/msk-ix/hls/Viasat_Sport_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-id="footbolny" group-title="Спорт",МЯЧ
+#EXTINF:-1 tvg-id="footbolny" group-title="Спорт",МЯЧ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791265129-iHwiRIE1mfIwwndVS-dbug/msk-ix/hls/Footbolniy_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="50" tvg-id="sila" group-title="Спорт",Сила
+#EXTINF:-1 tvg-id="sila" group-title="Спорт",Сила
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791277105-6_WiiQVMgZL_cgKtmglyNA/msk-ix/hls/Sila_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-id="xokkejny" group-title="Спорт",Хоккей ТВ
+#EXTINF:-1 tvg-id="xokkejny" group-title="Спорт",Хоккей ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791271078-3Kl1lSR2PGDTCEClm0e3cg/msk-ix/hls/Hokeyniy_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="60" tvg-id="che" group-title="Развлекательные",Че!
+#EXTINF:-1 tvg-id="che" group-title="Развлекательные",Че!
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/513/index.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-id="rtvi" group-title="Развлекательные",RTVi
+#EXTINF:-1 tvg-id="rtvi" group-title="Развлекательные",RTVi
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/9102/index.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-id="perec-int" group-title="Развлекательные",Перец
+#EXTINF:-1 tvg-id="perec-int" group-title="Развлекательные",Перец
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/15227/index.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-id="tnt4" group-title="Развлекательные",ТНТ4
+#EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные",ТНТ4
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/6370/index.m3u8
-#EXTINF:-1 tvg-chno="64" tvg-id="prodvizhenie" group-title="Развлекательные",Продвижение
+#EXTINF:-1 tvg-id="prodvizhenie" group-title="Развлекательные",Продвижение
 http://d78722d4.melpakomn.ru/iptv/8QSP3NYYD5XL4VXF7AXUP66L/851/index.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-id="ntv-mir" group-title="Развлекательные",НТВ Мир
+#EXTINF:-1 tvg-id="ntv-mir" group-title="Развлекательные",НТВ Мир
 https://stream1.cinerama.uz/1434/index.m3u8
-#EXTINF:-1 tvg-chno="67" tvg-id="tvci" group-title="Развлекательные",TVCi (ТВЦ-Международный)
+#EXTINF:-1 tvg-id="tvci" group-title="Развлекательные",TVCi (ТВЦ-Международный)
 https://stream1.cinerama.uz/1281/index.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="sts-love" group-title="Развлекательные",СТС Love
+#EXTINF:-1 tvg-id="sts-love" group-title="Развлекательные",СТС Love
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791273173-PvPNvAlWM88rz61p3yia1g/msk-ix/hls/CTC_Love_OTT_2/playlist.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-id="nostalgia" group-title="Развлекательные",Ностальгия
+#EXTINF:-1 tvg-id="nostalgia" group-title="Развлекательные",Ностальгия
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791277157-x4m3hAAOu-UUz8XBtvhl_w/msk-ix/hls/Nostalgya/playlist.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-id="vremia" group-title="Развлекательные",Время
+#EXTINF:-1 tvg-id="vremia" group-title="Развлекательные",Время
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/9298/index.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-id="oxotnik-i-rybolov-hd" group-title="Развлекательные",Охотник и Рыболов
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" group-title="Развлекательные",Охотник и Рыболов
 http://d78722d4.melpakomn.ru/iptv/LB7WMAXRY2MHAPW34DMCX2ZH/917/index.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-id="dialogi-o-rybalke" group-title="Развлекательные",Диалоги о Рыбалке
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="Развлекательные",Диалоги о Рыбалке
 http://d78722d4.melpakomn.ru/iptv/LB7WMAXRY2MHAPW34DMCX2ZH/2394/index.m3u8
-#EXTINF:-1 tvg-chno="73" group-title="Развлекательные",Рыболов
+#EXTINF:-1 group-title="Развлекательные",Рыболов
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791380647-kdop2aTw57Ahz1qZc-LxcA/msk-ix/hls/RYBOLOV_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="80" tvg-id="viasat-history" group-title="Познавательные",viju History
+#EXTINF:-1 tvg-id="viasat-history" group-title="Познавательные",viju History
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/203/index.m3u8
-#EXTINF:-1 tvg-chno="81" tvg-id="national-geographic" group-title="Познавательные",National Geograpic
+#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные",National Geograpic
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/2336/index.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-id="discovery-channel" group-title="Познавательные",Discovery
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery
 http://d78722d4.melpakomn.ru/iptv/ELHXKPU7X7H7EPZ2KWDKTYBR/227/index.m3u8
-#EXTINF:-1 tvg-chno="83" tvg-id="nauka-20" group-title="Познавательные",Наука
+#EXTINF:-1 tvg-id="nauka-20" group-title="Познавательные",Наука
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791263132-gVj9Cd2KHGxtAnYF0RpjRA/msk-ix/hls/Nauka_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="84" tvg-id="moya-planeta" group-title="Познавательные",Моя Планета
+#EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791265595-_DpS78ACQuby7CCWDBxnhQ/msk-ix/hls/MoyaPlaneta_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="85" tvg-id="istoria" group-title="Познавательные",История
+#EXTINF:-1 tvg-id="istoria" group-title="Познавательные",История
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791264294-5AC9kwX_V8L_oNcOw-t8JQ/msk-ix/hls/Istorya_SD/playlist.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-id="texno-24" group-title="Познавательные",Техно 24
+#EXTINF:-1 tvg-id="texno-24" group-title="Познавательные",Техно 24
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791277281-YySexpfAD_a-LwX481xNWg/msk-ix/hls/Tehno24/playlist.m3u8
-#EXTINF:-1 tvg-chno="87" tvg-id="rtg-hd" group-title="Познавательные",RTG HD
+#EXTINF:-1 tvg-id="rtg-hd" group-title="Познавательные",RTG HD
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791263583-KgbmgrlE8JQE4XRCFsKjfA/msk-ix/hls/RTG_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="88" tvg-id="rtd-ru" group-title="Познавательные",RT Документальный
+#EXTINF:-1 tvg-id="rtd-ru" group-title="Познавательные",RT Документальный
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/839/index.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-id="drive" group-title="Познавательные",Драйв
+#EXTINF:-1 tvg-id="drive" group-title="Познавательные",Драйв
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791269084-AS3kLbbDaPveP1gbYd_YOQ/msk-ix/hls/Drive_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="90" tvg-id="avto-plus" group-title="Познавательные",Авто Плюс
+#EXTINF:-1 tvg-id="avto-plus" group-title="Познавательные",Авто Плюс
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791275700-9LyBsuTqsTGUafUM90asQQ/msk-ix/hls/Auto_Plus_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="91" tvg-id="arsenaltv" group-title="Познавательные",Арсенал
+#EXTINF:-1 tvg-id="arsenaltv" group-title="Познавательные",Арсенал
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791266794-0BCKanO345RuAOGnSSKwTw/msk-ix/hls/Arsenal_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="92" tvg-id="insight-tv-hd" group-title="Познавательные",Инсайт ТВ
+#EXTINF:-1 tvg-id="insight-tv-hd" group-title="Познавательные",Инсайт ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791266850-nc-JCAYYIiTeYPbGTMD28g/msk-ix/hls/Insight_4K_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="93" tvg-id="centralnoye-tv" group-title="Познавательные",Центральное Телевидение
+#EXTINF:-1 tvg-id="centralnoye-tv" group-title="Познавательные",Центральное Телевидение
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/2064/index.m3u8
-#EXTINF:-1 tvg-chno="94" tvg-id="eda" group-title="Познавательные",Еда
+#EXTINF:-1 tvg-id="eda" group-title="Познавательные",Еда
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791382668-eK5iP9EG09U6JQaeml_mNQ/msk-ix/hls/EDA_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="95" tvg-id="kuxnia-tv" group-title="Познавательные",Кухня ТВ
+#EXTINF:-1 tvg-id="kuxnia-tv" group-title="Познавательные",Кухня ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791381699-KWDZGVPQnQkbZaQp4y72bg/msk-ix/hls/Kuhnya_TV_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="100" tvg-id="bridge-tv" group-title="Музыкальные",BRIDGE
+#EXTINF:-1 tvg-id="domkino" group-title="Кино",Дом кино
+http://d78722d4.melpakomn.ru/iptv/8QSP3NYYD5XL4VXF7AXUP66L/154/index.m3u8
+#EXTINF:-1 tvg-id="domkino-premium" group-title="Кино",Дом кино Премиум
+http://d78722d4.melpakomn.ru/iptv/8QSP3NYYD5XL4VXF7AXUP66L/911/index.m3u8
+#EXTINF:-1 tvg-id="kino-ultra-hd" group-title="Кино",Кино UHD
+http://d78722d4.melpakomn.ru/iptv/8QSP3NYYD5XL4VXF7AXUP66L/5004/index.m3u8
+#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" group-title="Кино",Остросюжетное
+http://d78722d4.melpakomn.ru/iptv/8QSP3NYYD5XL4VXF7AXUP66L/904/index.m3u8
+#EXTINF:-1 tvg-id="premialnoe-hd" group-title="Кино",Премиальное
+http://d78722d4.melpakomn.ru/iptv/8QSP3NYYD5XL4VXF7AXUP66L/2410/index.m3u8
+#EXTINF:-1 tvg-id="nash-kinopokaz-hd" group-title="Кино",Наш Кинопоказ
+http://d78722d4.melpakomn.ru/iptv/8QSP3NYYD5XL4VXF7AXUP66L/2434/index.m3u8
+#EXTINF:-1 tvg-id="blokbaster-hd" group-title="Кино",Блокбастер
+http://d78722d4.melpakomn.ru/iptv/8QSP3NYYD5XL4VXF7AXUP66L/2436/index.m3u8
+
+#EXTINF:-1 tvg-id="bridge-tv" group-title="Музыкальные",BRIDGE
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791268572-2BH0TWRjUB7JHauSlq8kpw/msk-ix/hls/BRIDGE_TV_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="101" tvg-id="bridge-tv-rock" group-title="Музыкальные",BRIDGE Rock
+#EXTINF:-1 tvg-id="bridge-tv-rock" group-title="Музыкальные",BRIDGE Rock
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791265391-xOyYgcPZc5eummxBIwW_rg/msk-ix/hls/BRIDGE_Rock_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="102" tvg-id="bridge-hd" group-title="Музыкальные",BRIDGE Deluxe
+#EXTINF:-1 tvg-id="bridge-hd" group-title="Музыкальные",BRIDGE Deluxe
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791270468-N5Yl_NNQt3hbvAm7EfMDTg/msk-ix/hls/BRIDGE_TV_DELUXE_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="103" tvg-id="bridge-tv-ruxit" group-title="Музыкальные",BRIDGE Русский Хит
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыкальные",BRIDGE Русский Хит
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791272214-l9DKygsM6QSB3v_0omRRfA/msk-ix/hls/BRIDGE_RUHIT_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="104" tvg-id="bridge-tv-dance" group-title="Музыкальные",BRIDGE Hits
+#EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Музыкальные",BRIDGE Hits
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791274968-8Yq7W7cqecsVSF9ikxqjhw/msk-ix/hls/BRIDGE_Hits_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="bridge-tv-classic" group-title="Музыкальные",BRIDGE Classic
+#EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Музыкальные",BRIDGE Classic
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791272198-F7Ys88RVCfDCRutxcM7CoQ/msk-ix/hls/BRIDGE_CLASSIC_HD_72200/playlist.m3u8
-#EXTINF:-1 tvg-chno="106" tvg-id="bridge-tv-fresh" group-title="Музыкальные",BRIDGE Фрэш
+#EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыкальные",BRIDGE Фрэш
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791274044-1aYvALg0b5GHyRKE8o-9OA/msk-ix/hls/BRIDGE_FRESH_HD/playlist.m3u8
-#EXTINF:-1 tvg-chno="107" tvg-id="bridge-tv-etno" group-title="Музыкальные",BRIDGE Этно
+#EXTINF:-1 tvg-id="bridge-tv-etno" group-title="Музыкальные",BRIDGE Этно
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791275879-RGgJfcQWR0A7XBi6O-2JxA/msk-ix/hls/BRIDGE_ETHNO_HD_2/playlist.m3u8
-#EXTINF:-1 tvg-chno="108" tvg-id="ru-tv" group-title="Музыкальные",РУ-ТВ
+#EXTINF:-1 tvg-id="ru-tv" group-title="Музыкальные",РУ-ТВ
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791267565-naLC9pxTd8KoUqRJzYzzEQ/msk-ix/hls/RUTV_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="201" tvg-id="pervy" group-title="Федеральные HD",Первый канал HD
+#EXTINF:-1 tvg-id="pervy" group-title="Федеральные HD",Первый канал HD
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/204/index.m3u8
-#EXTINF:-1 tvg-chno="202" tvg-id="rossia1" group-title="Федеральные HD",Россия 1 HD
+#EXTINF:-1 tvg-id="rossia1" group-title="Федеральные HD",Россия 1 HD
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/2409/index.m3u8
-#EXTINF:-1 tvg-chno="204" tvg-id="ntv" group-title="Федеральные HD",НТВ HD
+#EXTINF:-1 tvg-id="ntv" group-title="Федеральные HD",НТВ HD
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/213/index.m3u8
-#EXTINF:-1 tvg-chno="210" tvg-id="tvcentr" group-title="Федеральные HD",ТВЦ HD
+#EXTINF:-1 tvg-id="tvcentr" group-title="Федеральные HD",ТВЦ HD
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/19222/index.m3u8
-#EXTINF:-1 tvg-chno="211" tvg-id="rentv" group-title="Федеральные HD",РЕН ТВ HD
+#EXTINF:-1 tvg-id="rentv" group-title="Федеральные HD",РЕН ТВ HD
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/2024/index.m3u8
-#EXTINF:-1 tvg-chno="216" tvg-id="piatnica" group-title="Федеральные HD",Пятница! HD
+#EXTINF:-1 tvg-id="piatnica" group-title="Федеральные HD",Пятница! HD
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/5031/index.m3u8
-#EXTINF:-1 tvg-chno="218" tvg-id="mir" group-title="Федеральные HD",МИР HD
+#EXTINF:-1 tvg-id="mir" group-title="Федеральные HD",МИР HD
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/15119/index.m3u8
-#EXTINF:-1 tvg-chno="219" group-title="Федеральные HD",ТНТ HD
+#EXTINF:-1 group-title="Федеральные HD",ТНТ HD
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/237/index.m3u8
 
-#EXTINF:-1 tvg-chno="401" tvg-id="pervy" group-title="Федеральные UHD",Первый канал 4K
+#EXTINF:-1 tvg-id="pervy" group-title="Федеральные UHD",Первый канал 4K
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/19241/index.m3u8
-#EXTINF:-1 tvg-chno="402" tvg-id="rossia1" group-title="Федеральные UHD",Россия 1 4K
+#EXTINF:-1 tvg-id="rossia1" group-title="Федеральные UHD",Россия 1 4K
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/19242/index.m3u8
-#EXTINF:-1 tvg-chno="445" tvg-id="okko-football" group-title="Федеральные UHD",Окко Футбол 4K
+#EXTINF:-1 tvg-id="okko-football" group-title="Федеральные UHD",Окко Футбол 4K
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/19430/index.m3u8
 
-#EXTINF:-1 tvg-chno="1000" tvg-id="radio-rossii" group-title="Радио",Радио России Брянск
+#EXTINF:-1 tvg-id="radio-rossii" group-title="Радио",Радио России Брянск
 http://icecast.nstation.ru:8000/radiorusbryansk
-#EXTINF:-1 tvg-chno="1001" tvg-logo="https://32radio.ru/img/cover.png" group-title="Радио",32 Радио
+#EXTINF:-1 tvg-logo="https://32radio.ru/img/cover.png" group-title="Радио",32 Радио
 http://online.guberniya.tv:8000/32radio
-#EXTINF:-1 tvg-chno="1002" tvg-id="radio-mayak" group-title="Радио",Маяк
+#EXTINF:-1 tvg-id="radio-mayak" group-title="Радио",Маяк
 http://fmstream.ru:11000/mayak-bryansk
-#EXTINF:-1 tvg-chno="1003" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/%D0%9D%D0%90%D0%A8%D0%95_%D0%A0%D0%90%D0%94%D0%98%D0%9E.jpg" group-title="Радио",Наше Радио
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/%D0%9D%D0%90%D0%A8%D0%95_%D0%A0%D0%90%D0%94%D0%98%D0%9E.jpg" group-title="Радио",Наше Радио
 http://nashe1.hostingradio.ru/nashe-128.mp3
-#EXTINF:-1 tvg-chno="1004" tvg-id="russkoe-radio" group-title="Радио",Русское Радио
+#EXTINF:-1 tvg-id="russkoe-radio" group-title="Радио",Русское Радио
 https://hls-01-rusradio.hostingradio.ru/rusradio/playlist.m3u8
-#EXTINF:-1 tvg-chno="1005" tvg-id="dorozhnoe-radio" group-title="Радио",Дорожное Радио
+#EXTINF:-1 tvg-id="dorozhnoe-radio" group-title="Радио",Дорожное Радио
 https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8
-#EXTINF:-1 tvg-chno="1006" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/c/cb/RetroFM.png" group-title="Радио",Ретро FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/c/cb/RetroFM.png" group-title="Радио",Ретро FM
 https://hls-01-regions.emgsound.ru/12_msk/playlist.m3u8

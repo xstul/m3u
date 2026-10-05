@@ -75,7 +75,7 @@ http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/6360/index.m3u8
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/6362/index.m3u8
 
 #EXTINF:-1 tvg-chno="40" tvg-id="match-tv" group-title="Спорт",Матч! HD
-http://m9-vss23.plbl.m9.lfstrm.tv/match_tv_hd/normal/index.m3u8?account=5793278f18f7f018&client=e3b0c44298fc1c14&dvrlimit=live&env=s&expires=1789380000&ip=176-212-108-159&liveorigin=m9-live10&mpltlh=auto&origin=m9-dvr10&pbs_id=f5c31d32-cf87-4ee1-a895-f548e1b7c056&provider_id=559165bb685e041d2d000005&token=iLBTrTWg3SHj7AqN73FGsQ&wlid=7sky
+http://d78722d4.melpakomn.ru/iptv/8QSP3NYYD5XL4VXF7AXUP66L/10020/index.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-id="match-premier" group-title="Спорт",Матч! Премьер
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/220/index.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-id="match-football1" group-title="Спорт",Матч! Футбол 1
@@ -108,7 +108,7 @@ http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/15227/index.m3u8
 #EXTINF:-1 tvg-chno="63" tvg-id="tnt4" group-title="Развлекательные",ТНТ4
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/6370/index.m3u8
 #EXTINF:-1 tvg-chno="64" tvg-id="prodvizhenie" group-title="Развлекательные",Продвижение
-http://rec101.24h.tv/mbrjwt/7e9d05b4958801834391eddef869512d5866d43f-3961-0-24h1636456227-1-2966710333-1791116296-e128-mWReoCMZzwi_9hNAFC_q1WQHBUi0IYV7J5fVTkSc3-E/index.m3u8
+http://d78722d4.melpakomn.ru/iptv/8QSP3NYYD5XL4VXF7AXUP66L/851/index.m3u8
 #EXTINF:-1 tvg-chno="65" tvg-id="ntv-mir" group-title="Развлекательные",НТВ Мир
 https://stream1.cinerama.uz/1434/index.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-id="sts-int" group-title="Развлекательные",СТС-Международный

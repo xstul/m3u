@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U
 #EXTINF:-1,Первый канал
 #EXTGRP:Федеральные
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_1TV.m3u8

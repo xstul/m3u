@@ -111,8 +111,6 @@ http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/6370/index.m3u8
 http://d78722d4.melpakomn.ru/iptv/8QSP3NYYD5XL4VXF7AXUP66L/851/index.m3u8
 #EXTINF:-1 tvg-chno="65" tvg-id="ntv-mir" group-title="Развлекательные",НТВ Мир
 https://stream1.cinerama.uz/1434/index.m3u8
-#EXTINF:-1 tvg-chno="66" tvg-id="sts-int" group-title="Развлекательные",СТС-Международный
-http://d78722d4.melpakomn.ru/iptv/4GG9458ATSDYVFLH95YGLLNR/15228/index.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-id="tvci" group-title="Развлекательные",TVCi (ТВЦ-Международный)
 https://stream1.cinerama.uz/1281/index.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-id="sts-love" group-title="Развлекательные",СТС Love

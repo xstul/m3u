@@ -1,102 +1,82 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1,Первый канал
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_1TV.m3u8
 
 #EXTINF:-1,Россия 1
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_ROSSIA1.m3u8
 
 #EXTINF:-1,Матч! ТВ
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_MATCHTV.m3u8
 
 #EXTINF:-1,НТВ
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_NTV.m3u8
 
 #EXTINF:-1,Пятый канал
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_5TV.m3u8
 
 #EXTINF:-1,Культура
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_ROSSIAK.m3u8
 
 #EXTINF:-1,Россия 24
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_ROSSIA24.m3u8
 
 #EXTINF:-1,Карусель
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_KARUSEL.m3u8
 
 #EXTINF:-1,ОТР
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_OTR.m3u8
 
 #EXTINF:-1,ТВЦ
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_TVC.m3u8
 
 #EXTINF:-1,РЕН ТВ
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_RENTV.m3u8
 
 #EXTINF:-1,РЕН ТВ HD
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/2024/index.m3u8
 
 #EXTINF:-1,СТС
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_STS.m3u8
 
 #EXTINF:-1,Домашний
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_DOMASHNIY.m3u8
 
 #EXTINF:-1,ТВ-3
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_TV3.m3u8
 
 #EXTINF:-1,Пятница!
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_FRIDAY.m3u8
 
 #EXTINF:-1,Звезда
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_ZVEZDA.m3u8
 
 #EXTINF:-1,МИР
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/15119/index.m3u8
 
 #EXTINF:-1,ТНТ
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_TNT.m3u8
 
 #EXTINF:-1,Муз ТВ
 #EXTGRP:Федеральные
-#EXTVLCOPT:http-user-agent=IPTV
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/116/index.m3u8
 
 #EXTINF:-1,Брянская губерния
@@ -105,7 +85,6 @@ https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
 
 #EXTINF:-1,Брянск 24 HD
 #EXTGRP:Региональные
-#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_BRYANSK24HD.m3u8
 
 #EXTINF:-1,РБК

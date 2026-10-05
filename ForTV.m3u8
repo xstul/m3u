@@ -121,6 +121,12 @@ https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791273173-PvPNvAlWM88rz61p3yi
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791277157-x4m3hAAOu-UUz8XBtvhl_w/msk-ix/hls/Nostalgya/playlist.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="vremia" group-title="Развлекательные",Время
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/9298/index.m3u8
+#EXTINF:-1 tvg-chno="71" tvg-id="oxotnik-i-rybolov-hd" group-title="Развлекательные",Охотник и Рыболов
+http://d78722d4.melpakomn.ru/iptv/LB7WMAXRY2MHAPW34DMCX2ZH/917/index.m3u8
+#EXTINF:-1 tvg-chno="72" tvg-id="dialogi-o-rybalke" group-title="Развлекательные",Диалоги о Рыбалке
+http://d78722d4.melpakomn.ru/iptv/LB7WMAXRY2MHAPW34DMCX2ZH/2394/index.m3u8
+#EXTINF:-1 tvg-chno="73" group-title="Развлекательные",Рыболов
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791380647-kdop2aTw57Ahz1qZc-LxcA/msk-ix/hls/RYBOLOV_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="80" tvg-id="viasat-history" group-title="Познавательные",viju History
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/203/index.m3u8
@@ -150,6 +156,10 @@ https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791266794-0BCKanO345RuAOGnSSK
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791266850-nc-JCAYYIiTeYPbGTMD28g/msk-ix/hls/Insight_4K_HD/playlist.m3u8
 #EXTINF:-1 tvg-chno="93" tvg-id="centralnoye-tv" group-title="Познавательные",Центральное Телевидение
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/2064/index.m3u8
+#EXTINF:-1 tvg-chno="94" tvg-id="eda" group-title="Познавательные",Еда
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791382668-eK5iP9EG09U6JQaeml_mNQ/msk-ix/hls/EDA_HD/playlist.m3u8
+#EXTINF:-1 tvg-chno="95" tvg-id="kuxnia-tv" group-title="Познавательные",Кухня ТВ
+https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791381699-KWDZGVPQnQkbZaQp4y72bg/msk-ix/hls/Kuhnya_TV_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-id="bridge-tv" group-title="Музыкальные",BRIDGE
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791268572-2BH0TWRjUB7JHauSlq8kpw/msk-ix/hls/BRIDGE_TV_HD/playlist.m3u8

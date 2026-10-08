@@ -1,60 +1,77 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_noarch.xml.gz"
 
 #EXTINF:-1 tvg-id="pervy" group-title="Федеральные",Первый канал
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_1TV.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" group-title="Федеральные",Россия 1
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_ROSSIA1.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" group-title="Федеральные",Матч! ТВ
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_MATCHTV.m3u8
 
 #EXTINF:-1 tvg-id="ntv" group-title="Федеральные",НТВ
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_NTV.m3u8
 
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Федеральные",Пятый канал
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_5TV.m3u8
 
 #EXTINF:-1 tvg-id="kultura" group-title="Федеральные",Культура
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_ROSSIAK.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="Федеральные",Россия 24
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_ROSSIA24.m3u8
 
 #EXTINF:-1 tvg-id="karusel" group-title="Федеральные",Карусель
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_KARUSEL.m3u8
 
 #EXTINF:-1 tvg-id="otr" group-title="Федеральные",ОТР
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_OTR.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" group-title="Федеральные",ТВЦ
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_TVC.m3u8
 
 #EXTINF:-1 tvg-id="rentv" group-title="Федеральные",РЕН ТВ
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_RENTV.m3u8
 
 #EXTINF:-1 tvg-id="rentv" group-title="Федеральные",РЕН ТВ HD
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/2024/index.m3u8
 
 #EXTINF:-1 tvg-id="sts" group-title="Федеральные",СТС
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_STS.m3u8
 
 #EXTINF:-1 tvg-id="domashny" group-title="Федеральные",Домашний
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_DOMASHNIY.m3u8
 
 #EXTINF:-1 tvg-id="tv3-ru" group-title="Федеральные",ТВ-3
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_TV3.m3u8
 
 #EXTINF:-1 tvg-id="piatnica" group-title="Федеральные",Пятница!
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_FRIDAY.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" group-title="Федеральные",Звезда
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_ZVEZDA.m3u8
 
 #EXTINF:-1 tvg-id="mir" group-title="Федеральные",МИР
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/15119/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt" group-title="Федеральные",ТНТ
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_TNT.m3u8
 
 #EXTINF:-1 tvg-id="muztv" group-title="Федеральные",Муз ТВ
@@ -64,6 +81,7 @@ http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/116/index.m3u8
 https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
 
 #EXTINF:-1 tvg-id="briansk24" group-title="Региональные",Брянск 24 HD
+#EXTVLCOPT:http-user-agent=IPTV
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_BRYANSK24HD.m3u8
 
 #EXTINF:-1 tvg-id="rbk" group-title="Информационные",РБК

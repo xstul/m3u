@@ -287,8 +287,41 @@ http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/19242/index.m3u8
 #EXTINF:-1 tvg-id="okko-football" group-title="Федеральные UHD",Окко Футбол 4K
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/19430/index.m3u8
 
+#EXTINF:-1 tvg-id="belarus1" group-title="Беларусь",Беларусь 1
+http://d78722d4.melpakomn.ru/iptv/ZCHYHB6XNEPLG3QGAP2Z3QRK/2178/index.m3u8
+
+#EXTINF:-1 tvg-id="belarus5" group-title="Беларусь",Беларусь 2
+http://d78722d4.melpakomn.ru/iptv/ZCHYHB6XNEPLG3QGAP2Z3QRK/2179/index.m3u8
+
+#EXTINF:-1 tvg-id="belarus3" group-title="Беларусь",Беларусь 3
+http://d78722d4.melpakomn.ru/iptv/ZCHYHB6XNEPLG3QGAP2Z3QRK/2180/index.m3u8
+
+#EXTINF:-1 tvg-id="belarus5" group-title="Беларусь",Беларусь 5
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/2177/index.m3u8
+
+#EXTINF:-1 tvg-id="ont-by" group-title="Беларусь",ОНТ
+http://d78722d4.melpakomn.ru/iptv/ZCHYHB6XNEPLG3QGAP2Z3QRK/2171/index.m3u8
+
+#EXTINF:-1 tvg-id="stv-by" group-title="Беларусь",СТВ
+http://d78722d4.melpakomn.ru/iptv/ZCHYHB6XNEPLG3QGAP2Z3QRK/2184/index.m3u8
+
+#EXTINF:-1 tvg-id="mir" group-title="Беларусь",МИР
+http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/15119/index.m3u8
+
+#EXTINF:-1 tvg-id="pervy-info-by" group-title="Беларусь",Первый информационный
+http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/31912/index.m3u8
+
+#EXTINF:-1 tvg-id="rtr-planeta-eu" group-title="Беларусь",Планета РТР
+http://d78722d4.melpakomn.ru/iptv/ZCHYHB6XNEPLG3QGAP2Z3QRK/18042/index.m3u8
+
+#EXTINF:-1 tvg-id="ntv-belarus" group-title="Беларусь",НТВ Беларусь
+http://d78722d4.melpakomn.ru/iptv/ZCHYHB6XNEPLG3QGAP2Z3QRK/19371/index.m3u8
+
 #EXTINF:-1 tvg-id="radio-rossii" group-title="Радио",Радио России Брянск
 http://icecast.nstation.ru:8000/radiorusbryansk
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/8d/%D0%9F%D0%9D%D0%9A%D0%91%D0%A0.jpg" group-title="Радио",Першы нацыянальны канал Беларускага радыё
+https://media2.datacenter.by/stream/1kanal/stream
 
 #EXTINF:-1 tvg-logo="https://32radio.ru/img/cover.png" group-title="Радио",32 Радио
 http://online.guberniya.tv:8000/32radio

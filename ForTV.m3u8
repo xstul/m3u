@@ -159,12 +159,6 @@ http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/9298/index.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" group-title="Развлекательные",Охотник и Рыболов
 http://d78722d4.melpakomn.ru/iptv/LB7WMAXRY2MHAPW34DMCX2ZH/917/index.m3u8
 
-#EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="Развлекательные",Диалоги о Рыбалке
-http://d78722d4.melpakomn.ru/iptv/LB7WMAXRY2MHAPW34DMCX2ZH/2394/index.m3u8
-
-#EXTINF:-1 group-title="Развлекательные",Рыболов
-https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791380647-kdop2aTw57Ahz1qZc-LxcA/msk-ix/hls/RYBOLOV_HD/playlist.m3u8
-
 #EXTINF:-1 tvg-id="viasat-history" group-title="Познавательные",viju History
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/203/index.m3u8
 

@@ -88,10 +88,10 @@ http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_BRYANSK24HD.m3u8
 https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791654033-UOmgZ5b63QpXb6nwQPHwvg/msk-ix/hls/RBC_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="moskva-24" group-title="Информационные",Москва 24
-https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791273050-okY79bIIpghesRa-jiG3Kw/mediacdn/hls/moskva24/playlist.m3u8
+http://195.191.208.233:80/mbrjwt/a7aa3b295b3136bd3c63864d18811c95e8f99615-8953-0-24h1671343074-1-2966710333-1791476574-e128-U2d7zfjiy9r3tUOs2_rcr86QVD2bKiBtz-y0RE_3hec/index.m3u8
 
 #EXTINF:-1 tvg-id="mir-24" group-title="Информационные",Мир 24
-https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791268467-7DzqaTHwT2IaZr0rK-clZQ/msk-ix/hls/Mir_24_OTT_HD/playlist.m3u8
+https://s04.watcher.uz/81/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
 
 #EXTINF:-1 tvg-id="pervy-info-by" group-title="Информационные",Первый информационный (Беларусь)
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/31912/index.m3u8

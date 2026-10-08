@@ -126,18 +126,6 @@ http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/215/index.m3u8
 #EXTINF:-1 tvg-id="belarus5" group-title="Спорт",Беларусь 5
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/2177/index.m3u8
 
-#EXTINF:-1 tvg-id="viasat-sport" group-title="Спорт",viju+ Sport
-https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791269427-OMiMcvB5SXUgQNtMgk-JkQ/msk-ix/hls/Viasat_Sport_HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="footbolny" group-title="Спорт",МЯЧ
-https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791265129-iHwiRIE1mfIwwndVS-dbug/msk-ix/hls/Footbolniy_HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sila" group-title="Спорт",Сила
-https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791277105-6_WiiQVMgZL_cgKtmglyNA/msk-ix/hls/Sila_HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="xokkejny" group-title="Спорт",Хоккей ТВ
-https://okko-live-tv.cdnvideo.ru/tv/cid/364162160-1791271078-3Kl1lSR2PGDTCEClm0e3cg/msk-ix/hls/Hokeyniy_HD/playlist.m3u8
-
 #EXTINF:-1 tvg-id="che" group-title="Развлекательные",Че!
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/513/index.m3u8
 

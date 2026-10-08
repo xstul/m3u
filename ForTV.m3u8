@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_noarch.xml.gz"
 
 #EXTINF:-1 tvg-id="pervy" group-title="Федеральные",Первый канал
 http://dmi3y-tv.online/hls/zabava/region/BRYANSK/CH_1TV.m3u8

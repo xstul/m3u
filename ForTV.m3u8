@@ -92,6 +92,18 @@ http://d78722d4.melpakomn.ru/iptv/ZCHYHB6XNEPLG3QGAP2Z3QRK/16075/index.m3u8
 #EXTVLCOPT:http-user-agent=IPTV
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
 
+#EXTINF:-1 tvg-id="360-news" group-title="Информационные",360 Новости
+#EXTVLCOPT:http-user-agent=IPTV
+https://s81169.cdn.ngenix.net/mdrm/CH_360NEWSHD/manifest.mpd?token=shNmJjZTBkMGI0MWVjMDM1YzkxYmE5MzU0YjE5ZjQ0Mjg
+
+#EXTINF:-1 tvg-id="78kanal" group-title="Информационные",Канал 78
+#EXTVLCOPT:http-user-agent=IPTV
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
+
+#EXTINF:-1 tvg-id="sankt-peterburg" group-title="Информационные",Санкт-Петербург
+#EXTVLCOPT:http-user-agent=IPTV
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
+
 #EXTINF:-1 tvg-id="mir-24" group-title="Информационные",Мир 24
 http://d78722d4.melpakomn.ru/iptv/ZCHYHB6XNEPLG3QGAP2Z3QRK/2107/index.m3u8
 
@@ -122,8 +134,12 @@ http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/206/index.m3u8
 #EXTINF:-1 tvg-id="okko-football" group-title="Спорт",ОККО Футбол
 http://d78722d4.melpakomn.ru/iptv/RQX8XX6GZYAQUVGM93S9UGPR/6554/index.m3u8
 
-#EXTINF:-1 tvg-id="kxl" group-title="Спорт",КХЛ
+#EXTINF:-1 tvg-id="kxl" group-title="Спорт",KHL
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/215/index.m3u8
+
+#EXTINF:-1 tvg-id="kxl-hd" group-title="Информационные",KHL Prime
+#EXTVLCOPT:http-user-agent=IPTV
+https://s81169.cdn.ngenix.net/mdrm/CH_KHLPRIMEHD/manifest.mpd?token=85MjA4YzBkZjQ3MDY3OGEzNDNhYTFiMmQ5MGUyOTdmNzY
 
 #EXTINF:-1 tvg-id="belarus5" group-title="Спорт",Беларусь 5
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/2177/index.m3u8
@@ -136,6 +152,14 @@ http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/9102/index.m3u8
 
 #EXTINF:-1 tvg-id="perec-int" group-title="Развлекательные",Перец
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/15227/index.m3u8
+
+#EXTINF:-1 tvg-id="2na2" group-title="Развлекательные",2x2
+#EXTVLCOPT:http-user-agent=IPTV
+https://s81169.cdn.ngenix.net/mdrm/CH_2X2HD_OTT/manifest.mpd?token=dfZDk4MmFiMzlhZmE0ZTVjZTJjNGY3ZDEzZTMzMTBlNTA
+
+#EXTINF:-1 tvg-id="360-podmoskovie" group-title="Развлекательные",360
+#EXTVLCOPT:http-user-agent=IPTV
+https://s81169.cdn.ngenix.net/mdrm/CH_PODMOSKOVIEHD/manifest.mpd?token=yuNTg0N2I1ZjQ1YzYxNjJhNjFhY2QwNDNlZDkxNTVhMTY
 
 #EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные",ТНТ4
 http://d78722d4.melpakomn.ru/iptv/USTLU3K9A9YGZ9AWZTLXQXF5/6370/index.m3u8
@@ -153,13 +177,22 @@ http://d78722d4.melpakomn.ru/iptv/ZCHYHB6XNEPLG3QGAP2Z3QRK/103/index.m3u8
 http://d78722d4.melpakomn.ru/iptv/ZCHYHB6XNEPLG3QGAP2Z3QRK/102/index.m3u8
 
 #EXTINF:-1 tvg-id="vremia" group-title="Развлекательные",Время
-http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/9298/index.m3u8
+#EXTVLCOPT:http-user-agent=IPTV
+https://s81169.cdn.ngenix.net/mdrm/CH_VREMYADIBHD/manifest.mpd?token=TfZjAwZWVmODBkMGFkYjlkNzMyMmZiNDk4YWFjZDA4YTY
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" group-title="Развлекательные",Охотник и Рыболов
 http://d78722d4.melpakomn.ru/iptv/LB7WMAXRY2MHAPW34DMCX2ZH/917/index.m3u8
 
 #EXTINF:-1 tvg-id="viasat-history" group-title="Познавательные",viju History
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/203/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-explore" group-title="Познавательные",viju Explore
+#EXTVLCOPT:http-user-agent=IPTV
+https://s81169.cdn.ngenix.net/mdrm/CH_VIASATEXPLOREHD/manifest.mpd?token=tfNjg3YjZhNzgzMThkNDI5ZjhjZDU1NTk5MDhkNGViMjY
+
+#EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные",TERRA
+#EXTVLCOPT:http-user-agent=IPTV
+https://s81169.cdn.ngenix.net/mdrm/CH_C04_NGCHD/manifest.mpd?token=dsNDAzYzU0ODA4MjZlY2Q2ZTY2MTI3MzAyYjA4NWNjY2Y
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные",National Geograpic
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/2336/index.m3u8
@@ -255,16 +288,36 @@ http://d78722d4.melpakomn.ru/iptv/ZCHYHB6XNEPLG3QGAP2Z3QRK/19247/index.m3u8
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/204/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" group-title="Федеральные HD",Россия 1 HD
-http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/2409/index.m3u8
+http://d78722d4.melpakomn.ru/iptv/RQX8XX6GZYAQUVGM93S9UGPR/205/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv" group-title="Федеральные HD",НТВ HD
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/213/index.m3u8
+
+#EXTINF:-1 tvg-id="5kanal-ru" group-title="Федеральные HD",Пятый канал HD
+#EXTVLCOPT:http-user-agent=IPTV
+https://s37630.cdn.ngenix.net/mdrm/CH_5KANALHD/manifest.mpd?token=VtOTVmODgxMDgzZWQwMmNmZjY1NmJiZTIxMjcwYjY3MDg
+
+#EXTINF:-1 tvg-id="kultura" group-title="Федеральные HD",Россия К HD
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia-24" group-title="Федеральные HD",Россия 24 HD
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="otr" group-title="Федеральные HD",ОТР HD
+http://d78722d4.melpakomn.ru/iptv/RQX8XX6GZYAQUVGM93S9UGPR/20018/index.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" group-title="Федеральные HD",ТВЦ HD
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/19222/index.m3u8
 
 #EXTINF:-1 tvg-id="rentv" group-title="Федеральные HD",РЕН ТВ HD
 http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/2024/index.m3u8
+
+#EXTINF:-1 tvg-id="sts" group-title="Федеральные HD",СТС HD
+http://d78722d4.melpakomn.ru/iptv/RQX8XX6GZYAQUVGM93S9UGPR/6303/index.m3u8
+
+#EXTINF:-1 tvg-id="tv3-ru" group-title="Федеральные HD",ТВ-3 HD
+#EXTVLCOPT:http-user-agent=IPTV
+https://s81169.cdn.ngenix.net/mdrm/CH_TV3HD/manifest.mpd?token=dyZDIwNWRkN2NiMjljZDIwNjA5Y2U5YjJmZDIwZWRkZjY
 
 #EXTINF:-1 tvg-id="piatnica" group-title="Федеральные HD",Пятница! HD
 http://d78722d4.melpakomn.ru/iptv/RSZ4CMSH483GSAY2FW9QY54E/5031/index.m3u8
@@ -287,7 +340,7 @@ http://d78722d4.melpakomn.ru/iptv/T9H75A85UBLDTFZDN74YZ4G6/19430/index.m3u8
 #EXTINF:-1 tvg-id="belarus1" group-title="Беларусь",Беларусь 1
 http://d78722d4.melpakomn.ru/iptv/ZCHYHB6XNEPLG3QGAP2Z3QRK/2178/index.m3u8
 
-#EXTINF:-1 tvg-id="belarus5" group-title="Беларусь",Беларусь 2
+#EXTINF:-1 tvg-id="belarus2" group-title="Беларусь",Беларусь 2
 http://d78722d4.melpakomn.ru/iptv/ZCHYHB6XNEPLG3QGAP2Z3QRK/2179/index.m3u8
 
 #EXTINF:-1 tvg-id="belarus3" group-title="Беларусь",Беларусь 3
